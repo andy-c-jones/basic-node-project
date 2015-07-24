@@ -2,7 +2,7 @@
   "name": "basic-node-project",
   "version": "1.0.0",
   "description": "A starting point for a node application",
-  "main": "test.js",
+  "main": "test/test.js",
   "scripts": {
     "test": "mocha -u tdd"
   },
