@@ -1,0 +1,19 @@
+{
+  "name": "basic-node-project",
+  "version": "1.0.0",
+  "description": "A starting point for a node application",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha -u tdd"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+},
+  "author": "Andrew \"AJ\" Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andy-c-jones/basic-node-project/issues"
+  },
+  "homepage": "https://github.com/andy-c-jones/basic-node-project#readme"
+}
