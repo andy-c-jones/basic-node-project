@@ -18,7 +18,8 @@
   },
   "devDependencies": {
     "chai": "*",
-    "mocha": "*"
+    "mocha": "*",
+    "supertest": "^1.0.1"
   },
   "author": "Andrew \"AJ\" Jones",
   "license": "ISC",
