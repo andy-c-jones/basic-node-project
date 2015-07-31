@@ -19,4 +19,4 @@ Note: This is a free tier site site and will not be available 24/7
 3. Run ./precommit.sh
 
 Now the app and all of its tests have successfully run on your machine.
-Copy the project into your on repository and start building a web app!
+Copy the project into your own repository and start building a web app!
